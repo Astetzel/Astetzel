@@ -17,6 +17,6 @@
       "lan": "Javascript",
       "years": 0.5,
     },
-  ]
+  ],
 }
 ```
